@@ -1,5 +1,7 @@
 # FMD-regulamin
 
+Źródło - http://www.diplomacy.pl/images/dokumenty/Regulamin_Przedstawicielstw_Regionalnych_FMD.pdf
+
 REGULAMIN
 
 Przedstawicielstw	Regionalnych
