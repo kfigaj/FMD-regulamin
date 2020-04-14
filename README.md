@@ -53,13 +53,17 @@ Uchwałę	o	powołaniu	Przedstawicielstwa	Regionalnego	podejmuje	Zarząd FMD.
 1. Przedstawicielstwo	Regionalne	powołuje	się	na	okres	próbny,	który	trwa	6 miesięcy.
 
 2. Podczas	okresu	próbnego	Przedstawicielstwo	Regionalne	jest	zobowiązane	do:
+
 • nawiązania	 kontaktów	 i	 zaprezentowania	 FMD	 wśród	 czołowych	 organizacji
 pozarządowych	w	danym	regionie,
+
 • nawiązania	 kontaktów	 i	 zaprezentowania	 FMD	 wśród	 lokalnych	 przedstawicielstw
 konsularnych	i	dyplomatycznych,
+
 • nawiązania	 kontaktów	 i	 zaprezentowania	 FMD	 wśród	 lokalnych	 władz	 (Urząd	
 Wojewódzki,	 Urząd	 Marszałkowski,	 Urząd	 Miasta),	 przedstawicieli	 mediów	 oraz	
 organizacji	biznesowych,
+
 • zorganizowania	spotkań	informacyjnych	o	FMD	na uczelniach	wyższych	w regionie.
 
 3. Po	 okresie	 próbnym	 inicjatorzy	 przedstawiają	 Zarządowi	 sprawozdanie	 z nałożonych	
@@ -85,29 +89,40 @@ Przewodniczący.
 §10
 
 Członkowie Władz sprawują	następujące funkcje:
+
 • Przewodniczący
+
 • Sekretarz
+
 • Rzecznik	Prasowy
 
 §11
 
 1. Przewodniczący	Przedstawicielstwa	odpowiada	za:
+
 • koordynowanie	prac	Władz,
+
 • reprezentowanie	Przedstawicielstwa,
+
 • opracowywanie	co	najmniej	trzymiesięcznych planów	działalności	Przedstawicielstwa	
 oraz	corocznego	sprawozdania	merytorycznego	z prac	Przedstawicielstwa.
 
 2. Sekretarz	Przedstawicielstwa	odpowiada	za:
+
 • prowadzanie	 w	 regionie	 rekrutacji	 do	 FMD	 w	 oparciu	 o	 wytyczne uzyskane	 od	
 Sekretarza	Generalnego	FMD (decyzja	o	przyjęciu	kandydata	w	poczet	członków	FMD	
 należy	do	kompetencji	Zarządu	FMD),
+
 • prowadzenie	spraw	członkowskich.
 
 3. Rzecznik	Prasowy	Przedstawicielstwa	odpowiada	za:
+
 • promocję	Przedstawicielstwa	w	regionie,
+
 • współpracę	z	Rzecznikiem	Prasowym	FMD	w	zakresie	kształtowania	wizerunku	FMD	
 oraz	 w	 prowadzeniu	 mediów	 społecznościowych,	 tworząc	 wraz	 z pozostałymi	
 Rzecznikami	Prasowymi	„Grupę	PR	FMD”,
+
 • realizowanie	w	regionie	polityki	informacyjnej	FMD	nakreślanej	przez	Zarząd	FMD.
 
 Rozdział	IV
@@ -202,9 +217,13 @@ w Stowarzyszeniu,	jest	członkostwo	tymczasowe.
 2.	 Członkiem	 tymczasowym	 Stowarzyszenia	 może	 być	 każda pełnoletnia	 osoba	 fizyczna,	
 zarówno obywatel	Rzeczypospolitej	Polskiej	jak	i	cudzoziemiec,	posiadająca pełną	zdolność	
 do	czynności prawnych	oraz	niepozbawiona	praw	publicznych,	która:
+
 • pomyślnie	ukończy	procedurę rekrutacyjną,
+
 • prawidłowo	wypełni	i	podpisze	deklarację	członkowską,
+
 • wpłaci	na	rzecz	Stowarzyszenia	składkę członkowską,
+
 • została	 przyjęta	 przez	Zarząd	w	 poczet	 członków	 tymczasowych	Stowarzyszenia	 na	
 okres	próbny.
 
@@ -224,12 +243,18 @@ Stowarzyszenia.
 
 
 2.	Każdy	Członek,	bez	względu	na	zakres	i	sposób	realizacji	zadań,	jest	zobowiązany	do:
+
 • przestrzegania	Statutu,	regulaminów	i	uchwał	Władz	Stowarzyszenia,
+
 • aktywnego	udziału	w	pracach	Stowarzyszenia,
+
 • rozwijania	 własnej	 inicjatywy	 w	 uzyskiwaniu	 wiedzy	 o	 życiu	 publicznym	 w kraju	
 i problemach	międzynarodowych,
+
 • realizowania	jego	celów	statutowych	oraz	wszelkich	powierzonych	zadań,
+
 • dbania	o	dobre	imię	i	godnego	reprezentowania	Stowarzyszenia,
+
 • regularnego	opłacania	składek	i	innych	świadczeń	obowiązujących	w Stowarzyszeniu.
 
 3.	Członek	tymczasowy	nie	ma	prawa	wyborczego	na	Walnym	Zebraniu	Członków	i podczas	
@@ -238,10 +263,14 @@ wyborów	Władz	w	Przedstawicielstwach	Regionalnych	FMD.
 §22
 
 Członek	tymczasowy	Stowarzyszenia	ma	prawo	do:
-• udziału	 w	 różnych	 formach	 działalności	 Stowarzyszenia dostępnych	 dla	 członków	
+
+• udziału	 w	różnych	 formach	 działalności	 Stowarzyszenia dostępnych	dla	 członków	
 tymczasowych,
+
 • inicjowania	nowych	form	działalności	Stowarzyszenia,
+
 • korzystania	z	rekomendacji	i	pomocy	Stowarzyszenia	w	swojej	działalności,
+
 • wnoszenia	 do	 Sądu	 Koleżeńskiego	 odwołania	 od	 uchwały	 Zarządu w przedmiocie	
 odmowy	 przyjęcia w	 poczet	 członków	 zwyczajnych	 Stowarzyszenia	 w	 trybie	
 określonym	w	Statucie	FMD.
@@ -250,8 +279,11 @@ określonym	w	Statucie	FMD.
 
 1.	Otrzymanie	statusu	Członka	zwyczajnego	jest	uzależnione	od	zaangażowania	wykazanego	
 w	pierwszym	półroczu	działalności	w	Stowarzyszeniu	tj.:
+
 • aktywności w	inicjatywach	Stowarzyszenia,
+
 • zaangażowania w	projekty	FMD,
+
 • wykonania własnych	projektów,	w	tym	klubów	dyskusyjnych i/lub szkoleń.
 
 2.	 Po	 okresie	 próbnym	 lub	 wykazaniu	 się	 zadawalającą	 aktywnością,	 Członek	 tymczasowy	
@@ -262,10 +294,14 @@ FMD,	Zarząd	FMD nadaje	Członkowi	tymczasowemu	status	Członka	zwyczajnego.
 
 3.	Członek	tymczasowy	może	zostać skreślony	z	listy	Członków	Stowarzyszenia	przez	Zarząd	
 na	wniosek	Przewodniczącego	Władz	Regionalnych	w	przypadku	gdy:
+
 • nie	będzie	aktywnie uczestniczyć	w inicjatywach	Stowarzyszenia,
+
 • mimo	 upływu	 wymaganego	 czasu	 nie	 wywiąże	 się ze	 swoich	 zobowiązań wobec	
 Stowarzyszenia,
+
 • złamie	postanowienia	niniejszego	regulaminu	i/lub	statutu	Stowarzyszenia	FMD,
+
 • w	 sposób	 rażący	 uchybił	 godności	 członka	 lub	 jego	 zachowanie	 godzi	 w dobre	 imię
 Stowarzyszenia.
 
@@ -279,12 +315,17 @@ Prawa	i	obowiązki	Członków	zwyczajnych
 1.	 Członkiem	 zwyczajnym	 Stowarzyszenia	 może	 być	 każda	 pełnoletnia	 osoba	 fizyczna,	
 zarówno	obywatel	Rzeczypospolitej	Polskiej	jak	i	cudzoziemiec,	posiadająca	pełną	zdolność	
 do	czynności	prawnych	oraz	niepozbawiona	praw	publicznych,	która:
+
 • aktywnie	uczestniczy	w	pracach	Stowarzyszenia,
+
 • wykaże się należytą aktywnością̨
 w	trakcie	okresu	próbnego,	
+
 • wykona	własne	projekty,	w	tym	kluby	dyskusyjne	i/lub	szkolenia,
+
 • sporządzi	pisemną	ewaluację	dotyczącą	własnej	działalności	w Stowarzyszeniu,	którą	
 przekaże	do	Władz	Przedstawicielstwa,
+
 • zostanie	przyjęta przez	Zarząd w	poczet	członków	zwyczajnych	Stowarzyszenia.
 
 2.	 Członek	 podejmuje	 obowiązki	 i	 nabywa	 prawa	 płynące	 z	 przyjęcia w	 poczet	 Członków	
@@ -302,30 +343,46 @@ FMD.
 przygotowanie	projektu	lub	wykazanie	innej	aktywności	przynajmniej	raz	na	3	miesiące.
 
 3.	Każdy	Członek,	bez	względu	na	zakres	i	sposób	realizacji	zadań,	jest	zobowiązany	do:
+
 • przestrzegania	Statutu,	regulaminów	i	uchwał	Władz	Stowarzyszenia,
+
 • aktywnego	udziału	w	pracach	Stowarzyszenia,
+
 • rozwijania	 własnej	 inicjatywy	 w	 uzyskiwaniu	 wiedzy	 o	 życiu	 publicznym	 w kraju	
 i problemach	międzynarodowych,
+
 • realizowania	jego	celów	statutowych	oraz	wszelkich	powierzonych	zadań,
+
 • dbania	o	dobre	imię	i	godnego	reprezentowania	Stowarzyszenia,
+
 • regularnego	opłacania	składek	i	innych	świadczeń	obowiązujących	w Stowarzyszeniu.
 
 §26
 
 1.	Członek	zwyczajny	Stowarzyszenia	ma prawo	do:
+
 • korzystania	z	czynnego	i	biernego	prawa	wyborczego,
+
 • udziału	we	wszystkich	formach	działalności	Stowarzyszenia,
+
 • inicjowania	nowych	form	działalności	Stowarzyszenia,
+
 • składania	 wniosków i	 opinii	 we	 wszystkich sprawach	 dotyczących celów i zadań
 Stowarzyszenia,
+
 • korzystania	z	rekomendacji	i	pomocy	Stowarzyszenia	w	swojej	działalności,
+
 • nieodpłatnego	korzystania	z	lokali	i	urządzeń technicznych	Stowarzyszenia	w	zakresie	
 realizowanych	projektów,
+
 • zaskarżania do	 Walnego	 Zebrania	 Członków	 uchwał	 Zarządu	 w	 terminie	 14 dni	 od	
 daty	ich	dostarczenia,
+
 • składania	wniosków oraz	projektów uchwał	podczas	Walnego	Zebrania	Członków,
+
 • wnoszenia	 do	 Sądu	 Koleżeńskiego	 odwołań od	 uchwał	 Zarządu	 w przedmiocie	
 skreślenia z	listy	członków	Stowarzyszenia	w	trybie	określonym	w	Statucie	FMD,
+
 • korzystania	z	innych	możliwości,	jakie	stwarza	członkom	Stowarzyszenie.
 
 2.	 Każdy	 Członek	 zwyczajny	 może	 kandydować w	 wyborach	 na	 członka we	 Władzach	
@@ -348,17 +405,26 @@ Utrata	praw	członkowskich
 1.	 Możliwe	 jest	 utracenie	 praw	 członkowskich	 poprzez	 skreślenie	 z	 listy	 członków	
 Stowarzyszenia decyzją	 Zarządu na	 wniosek	 Władz	 Przedstawicielstwa	 Regionalnego,	 gdy	
 Członek:
+
 • uchyla	się	od	płacenia	składek	członkowskich przez	okres	dłuższy	niż	12 miesięcy,
+
 • zaprzestał	działalności	w	Stowarzyszeniu przez	okres	dłuższy	niż	3	miesiące,
+
 • w	sposób	uporczywy	i	rażący	narusza	zasady	zawarte	w	Statucie,
+
 • nie	przestrzega	uchwał	i	regulaminów	obowiązujących	w	Stowarzyszeniu,
+
 • nie	wywiązuje	się	z	przyjętych	wobec	Stowarzyszenia	zobowiązań,
+
 • nie	 stawił	 się na	 dwóch	 kolejnych	 Walnych	 Zebraniach	 Członków	 bez	 podania	
 przyczyny.
 
 2.	Ponadto,	utrata	praw	członkowskich	następuje	w	wyniku:
+
 • złożenia	Zarządowi	FMD	pisemnej	rezygnacji	z	członkostwa	w Stowarzyszeniu,
+
 • utraty	praw	publicznych	w	wyniku	prawomocnego	orzeczenia	sądu,
+
 • śmierci	członka	Stowarzyszenia.
 
 3.	Od	uchwały	Zarządu	w	przedmiocie	skreślenia z	listy	członków	Stowarzyszenia	przysługuje	
@@ -378,7 +444,9 @@ szczególny	przyczyniła	się do	realizacji	celów Stowarzyszenia	oraz	jego	rozw
 Zebranie Członków	na	wniosek	Zarządu.
 
 3.	Członek	honorowy	Stowarzyszenia	ma prawo	do:
+
 • udziału	we	wszystkich	formach	działalności	Stowarzyszenia,
+
 • wydawania	opinii	doradczych	we	wszystkich	sprawach	dotyczących celów i	zadań
 Stowarzyszenia.
 
